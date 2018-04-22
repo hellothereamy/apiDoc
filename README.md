@@ -1,8 +1,9 @@
 ## Created by Amy Tran 
 
 ## How to Run the Project
-run `npm install` 
-then run `npm start` to start the server
+1. clone repo
+2. run `npm install` 
+3. run `npm start` to start the server
 
 
 ## How to Render ExplorerComponent
