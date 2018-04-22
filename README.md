@@ -9,7 +9,8 @@ then run `npm start` to start the server
 
 ExplorerComponent uses the JSON object I defined in ListComponent. 
 To render this component, you must pass in:
-  ```<ExplorerComponent
+  ```
+  <ExplorerComponent
           key = {} // best practices when looping, use the index as the key
           url= {} // base URL for the api 
           title = {} // Title of API method
