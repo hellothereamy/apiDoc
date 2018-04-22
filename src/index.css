@@ -1,0 +1,26 @@
+@import '~antd/dist/antd.css';
+#root {
+	padding: 20px 20px 20px 0px;
+}
+.centered { 
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+.margin-bottom {
+	margin-bottom: 20px;
+}
+
+.headers {
+	font-weight: 300;
+}
+
+.name {
+	font-weight: 600;
+}
+
+.half-size {
+	width: 50%;
+}
