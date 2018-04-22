@@ -1,4 +1,4 @@
-## Create by Amy Tran 
+## Created by Amy Tran 
 
 ## How to Run the Project
 run `npm install` 
